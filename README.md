@@ -7,6 +7,7 @@
 | Skill | 描述 |
 |-------|------|
 | [blast-off-my-project](./blast-off-my-project/) | 项目发布前的最后一步 |
+| [blast-off-my-skill](./blast-off-my-skill/) | 将本地 skill 发布到 GitHub |
 
 ## 🚀 安装
 
