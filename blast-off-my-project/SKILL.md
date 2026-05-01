@@ -173,7 +173,17 @@ git push origin v1.0.0
 
 #### README.md（英文，主版本）
 
-英文版是事实标准，必须优先完成：
+英文版是事实标准，必须优先完成。
+
+**重要**：在文件开头添加中文版入口链接：
+
+```markdown
+[![English](https://img.shields.io/badge-English-blue.svg)](README.md)
+[![中文](https://img.shields.io/badge-中文-red.svg)](README_zh.md)
+
+---
+
+# Project Name
 
 ```markdown
 # Project Name
@@ -232,6 +242,16 @@ MIT / Apache 2.0 / [Your License]
 #### README_zh.md（中文版）
 
 内容必须与英文版完全一致，只是语言不同。使用相同结构和顺序。
+
+**重要**：在文件开头添加英文版入口链接：
+
+```markdown
+[![English](https://img.shields.io/badge-English-blue.svg)](README.md)
+[![中文](https://img.shields.io/badge-中文-red.svg)](README_zh.md)
+
+---
+
+# 项目名称
 
 #### README 写作指南
 
