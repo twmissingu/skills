@@ -8,6 +8,7 @@
 |-------|------|
 | [blast-off-my-project](./blast-off-my-project/) | 项目发布前的最后一步 |
 | [blast-off-my-skill](./blast-off-my-skill/) | 将本地 skill 发布到 GitHub |
+| [complex-task-prompt](./complex-task-prompt/) | 复杂任务提示词框架 — 7模块结构化分析后生成优化prompt |
 
 ## 🚀 安装
 
