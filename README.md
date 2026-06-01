@@ -10,6 +10,7 @@
 | [blast-off-my-skill](./blast-off-my-skill/) | 将本地 skill 发布到 GitHub |
 | [complex-task-prompt](./complex-task-prompt/) | 复杂任务提示词框架 — 7模块结构化分析后生成优化prompt |
 | [skill-sync](./skill-sync/) | Skill 一键发布与多 Agent 同步 — 项目仓库+GitHub+全平台分发 |
+| [multi-role-doc-review](./multi-role-doc-review/) | 多角色交叉审查文档 — 并行评审+共识分歧+行动清单+patch执行 |
 
 ## 🚀 安装
 
