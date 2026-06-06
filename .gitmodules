@@ -1,0 +1,3 @@
+[submodule "vibe-evolve"]
+	path = vibe-evolve
+	url = git@github.com:twmissingu/vibe-evolve.git
