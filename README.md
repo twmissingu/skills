@@ -11,6 +11,7 @@
 | [complex-task-prompt](./complex-task-prompt/) | 复杂任务提示词框架 — 7模块结构化分析后生成优化prompt |
 | [skill-sync](./skill-sync/) | Skill 一键发布与多 Agent 同步 — 项目仓库+GitHub+全平台分发 |
 | [multi-role-doc-review](./multi-role-doc-review/) | 多角色交叉审查文档 — 并行评审+共识分歧+行动清单+patch执行 |
+| [teach](./teach/) | 多会话渐进式教学系统 — 结构化学习+即时反馈+进度跟踪 |
 
 ## 🚀 安装
 
